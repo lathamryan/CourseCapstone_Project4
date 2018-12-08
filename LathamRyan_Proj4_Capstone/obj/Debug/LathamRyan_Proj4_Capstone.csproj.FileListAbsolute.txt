@@ -1,0 +1,12 @@
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project4\LathamRyan_Proj4_Capstone\LathamRyan_Proj4_Capstone\bin\Debug\LathamRyan_Proj4_Capstone.exe.config
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project4\LathamRyan_Proj4_Capstone\LathamRyan_Proj4_Capstone\bin\Debug\LathamRyan_Proj4_Capstone.exe
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project4\LathamRyan_Proj4_Capstone\LathamRyan_Proj4_Capstone\bin\Debug\LathamRyan_Proj4_Capstone.pdb
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project4\LathamRyan_Proj4_Capstone\LathamRyan_Proj4_Capstone\obj\Debug\LathamRyan_Proj4_Capstone.csprojAssemblyReference.cache
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project4\LathamRyan_Proj4_Capstone\LathamRyan_Proj4_Capstone\obj\Debug\LathamRyan_Proj4_Capstone.Form1.resources
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project4\LathamRyan_Proj4_Capstone\LathamRyan_Proj4_Capstone\obj\Debug\LathamRyan_Proj4_Capstone.Properties.Resources.resources
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project4\LathamRyan_Proj4_Capstone\LathamRyan_Proj4_Capstone\obj\Debug\LathamRyan_Proj4_Capstone.csproj.GenerateResource.cache
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project4\LathamRyan_Proj4_Capstone\LathamRyan_Proj4_Capstone\obj\Debug\LathamRyan_Proj4_Capstone.csproj.CoreCompileInputs.cache
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project4\LathamRyan_Proj4_Capstone\LathamRyan_Proj4_Capstone\obj\Debug\LathamRyan_Proj4_Capstone.exe
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project4\LathamRyan_Proj4_Capstone\LathamRyan_Proj4_Capstone\obj\Debug\LathamRyan_Proj4_Capstone.pdb
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project4\LathamRyan_Proj4_Capstone\LathamRyan_Proj4_Capstone\bin\Debug\ClassReg.mdf
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project4\LathamRyan_Proj4_Capstone\LathamRyan_Proj4_Capstone\bin\Debug\ClassReg_log.ldf
